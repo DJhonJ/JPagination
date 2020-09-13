@@ -1,0 +1,1 @@
+JPagination('.jpagination-navigation', '.items div');
